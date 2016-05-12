@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="265" key="DIALOG_WIDTH"/>
+		<item value="99" key="DIALOG_Y_ORIGIN"/>
+		<item value="1073" key="DIALOG_X_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="doublesMut" key="selection"/>
+		<list key="findhistory">
+			<item value="doublesMut"/>
+			<item value="crackPW"/>
+			<item value="&#x0A;&#x09;&#x09;&#x09;&#x09;firstName = name.split(&quot; &quot;)[0];"/>
+			<item value="populateWordList"/>
+			<item value="&quot;User: &quot;"/>
+			<item value="&quot;User:"/>
+			<item value="rachel"/>
+			<item value="ITERATIONS"/>
+		</list>
+		<list key="replacehistory">
+			<item value="state["/>
+			<item value="state"/>
+		</list>
+	</section>
+</section>

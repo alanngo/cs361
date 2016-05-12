@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;Assign3-entrophy&apos;&#x0A;- Original project: &apos;Assign3-entrophy&apos;&#x0A;- Original elements:&#x0A;     Diff.java&#x0A;     Huff.java&#x0A;     HuffMark.java&#x0A;     HuffViewer.java&#x0A;     IHuffConstants.java&#x0A;     IHuffProcessor.java" description="Delete elements" element1="/src&lt;{IHuffProcessor.java" element2="/src&lt;{Huff.java" element3="/src&lt;{HuffMark.java" element4="/src&lt;{IHuffConstants.java" element5="/src&lt;{Diff.java" element6="/src&lt;{HuffViewer.java" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1435009723864" subPackages="false" version="1.0"/>
+</session>

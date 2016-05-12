@@ -1,0 +1,7 @@
+write Lyle LObj 5
+read Lyle LObj HObj
+read Lyle HObj
+write Alex 10
+sleep
+read Lyle LObj
+read Lyle HObj

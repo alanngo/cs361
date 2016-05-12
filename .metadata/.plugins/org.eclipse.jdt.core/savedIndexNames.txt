@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/Users/alexirion/Documents/ut-cs/CS361/.metadata/.plugins/org.eclipse.jdt.core
+2370845866.index
+3023369634.index
+834368691.index
+3686393384.index
+4026308632.index
